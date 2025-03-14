@@ -44,7 +44,7 @@ Solara12 is an advanced emotional support chatbot designed to engage users in me
 ## Technology Stack
 - **Streamlit:** Provides an interactive and user-friendly web interface.
 - **Ollama Framework:** Implements Solara’s emotional intelligence and support capabilities.
-- **Llama3.2 Model:** Powers the chatbot’s natural language processing for offline and responsive interactions.
+- **Mistral Model:** Powers the chatbot’s natural language processing for offline and responsive interactions.
 - **Natural Language Processing (NLP):** Enables human-like understanding and generation of responses.
 - **Python:** The core programming language used for developing Solara.
 
