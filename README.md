@@ -94,12 +94,6 @@ User: It's been a stressful week at work.
 Solara: That sounds overwhelming. What part of your week has been the most challenging?
 ```
 
-## Contributing
-We welcome contributions to improve Solara12! If you’d like to contribute, please:
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Submit a pull request with your changes.
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
