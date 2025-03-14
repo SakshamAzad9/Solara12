@@ -54,7 +54,7 @@ Solara12 is an advanced emotional support chatbot designed to engage users in me
 - Python 3.7 or higher
 - Streamlit
 - Ollama Framework (if applicable)
-- Llama3.2 Model for offline processing (or other supported models)
+- Mistral Model for offline processing (or other supported models)
 
 ### **Installation Steps**
 1. Clone the repository:
