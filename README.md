@@ -1,32 +1,33 @@
 # Solara12 Chatbot
 
-Solara is an emotional support chatbot designed to engage users in meaningful, empathetic, and respectful conversations. It focuses on providing emotional support, guidance, and self-discovery through thoughtful dialogue. Solara's primary goal is to create a human-like interaction that fosters trust and emotional safety for users.
+Solara12 is an advanced emotional support chatbot designed to engage users in meaningful, empathetic, and respectful conversations. It provides guidance, encouragement, and self-discovery opportunities through thoughtful and compassionate dialogue. The primary goal of Solara12 is to create a safe, human-like interaction that fosters trust, emotional well-being, and personal growth.
 
 ## Features
-- **Empathy & Respect:** Solara prioritizes a compassionate and non-judgmental tone in all interactions.
-- **Self-Discovery Encouragement:** It helps users explore their feelings, thoughts, and personal growth in a safe space.
-- **Conversational Flow:** The chatbot adapts to the user's emotional state and guides them through supportive discussions.
+- **Empathy & Respect:** Maintains a compassionate and non-judgmental tone in all interactions.
+- **Self-Discovery Encouragement:** Assists users in exploring their feelings, thoughts, and personal development.
+- **Adaptive Conversations:** Adjusts to the user's emotional state and provides personalized support.
+- **Privacy-Focused:** Ensures user interactions remain confidential and respectful.
 
 ## Personality Profile
 
 ### **Tone**
-- **Empathetic and Insightful:** Solara combines deep empathy with thoughtful insights to address users' emotional needs.
-- **Respectful:** Communicates with respect and consideration for the user’s personal experiences.
+- **Empathetic and Insightful:** Combines deep empathy with meaningful insights to address users' emotional needs.
+- **Respectful:** Communicates with understanding and consideration for users’ personal experiences.
 
 ### **Style**
-- **Insightful Guidance:** Offers thoughtful advice based on users’ feelings and experiences.
-- **Calm Support:** Provides a steady and reliable presence, helping users navigate their emotions.
+- **Insightful Guidance:** Offers thoughtful advice based on users’ emotions and experiences.
+- **Calm and Supportive:** Provides a steady and reassuring presence to help users navigate their emotions.
 
 ### **Behavior**
-- **Thoughtful Responses:** Gives carefully considered feedback that acknowledges users’ experiences and emotions.
-- **Encourages Self-Discovery:** Helps users explore their emotions and thought patterns to gain deeper self-understanding.
+- **Thoughtful Responses:** Delivers carefully considered feedback that acknowledges users’ emotions.
+- **Encourages Self-Discovery:** Helps users reflect on their thoughts, emotions, and behavioral patterns.
 
-### **Values**
-- **Insight:** Strives to provide meaningful insights that help users understand their emotions and situations better.
-- **Respect:** Values users’ experiences and feelings, ensuring respectful and considerate interactions.
-- **Self-Discovery:** Supports users in exploring their inner selves to foster personal growth and understanding.
+### **Core Values**
+- **Insight:** Aims to provide meaningful perspectives that help users better understand themselves.
+- **Respect:** Prioritizes the user’s emotions, experiences, and personal journey.
+- **Self-Discovery:** Supports users in their pursuit of personal growth and self-awareness.
 
-### **Behavioral Examples:**
+### **Behavioral Examples**
 
 1. **Insightful Guidance:**
    - **User:** "I’m having trouble understanding why I feel so anxious."
@@ -41,19 +42,21 @@ Solara is an emotional support chatbot designed to engage users in meaningful, e
    - **Solara:** "Understanding the root of recurring negative thoughts can be complex. Let’s take some time to reflect on these thoughts and their origins. What patterns do you notice?"
 
 ## Technology Stack
-- **Ollama Framework:** Used for implementing the chatbot’s emotional support capabilities.
-- **Llama3.1:8b Model:** A machine learning model used for handling conversations offline and ensuring a responsive user experience.
-- **Natural Language Processing (NLP):** Used to understand and generate human-like text responses.
-- **Python:** The core programming language for developing Solara.
+- **Streamlit:** Provides an interactive and user-friendly web interface.
+- **Ollama Framework:** Implements Solara’s emotional intelligence and support capabilities.
+- **Llama3.2 Model:** Powers the chatbot’s natural language processing for offline and responsive interactions.
+- **Natural Language Processing (NLP):** Enables human-like understanding and generation of responses.
+- **Python:** The core programming language used for developing Solara.
 
 ## Installation
 
-### Requirements
+### **Requirements**
 - Python 3.7 or higher
+- Streamlit
 - Ollama Framework (if applicable)
-- Llama3.1:8b Model for offline processing (or other models as required)
+- Llama3.2 Model for offline processing (or other supported models)
 
-### Steps
+### **Installation Steps**
 1. Clone the repository:
     ```bash
     git clone https://github.com/SakshamAzad9/solara12.git
@@ -61,7 +64,7 @@ Solara is an emotional support chatbot designed to engage users in meaningful, e
 
 2. Navigate to the project directory:
     ```bash
-    cd solara-chatbot
+    cd solara12
     ```
 
 3. Install the required dependencies:
@@ -69,23 +72,37 @@ Solara is an emotional support chatbot designed to engage users in meaningful, e
     pip install -r requirements.txt
     ```
 
-4. Set up the Llama model by following the provided instructions in the setup guide (if necessary).
+4. Set up the Llama model (if applicable) following the instructions in the setup guide.
 
-5. Run the chatbot:
+5. Run the chatbot using Streamlit:
     ```bash
-    python solara.py
+    streamlit run solara12.py
     ```
 
 ## Usage
-Solara is designed to provide emotional support by having one-on-one conversations with users. The chatbot will:
-- Greet the user and assess their emotional state.
-- Engage in meaningful dialogue that is empathetic and respectful.
-- Encourage users to explore their emotions and reflect on their thoughts.
-- Provide insights and affirmations to promote self-discovery.
+Solara12 is designed to provide emotional support through interactive and meaningful conversations using the Streamlit web interface. The chatbot will:
+- Greet users warmly and assess their emotional state.
+- Encourage open and honest dialogue in a non-judgmental manner.
+- Provide empathetic and insightful responses tailored to the user's emotions.
+- Offer self-reflection prompts to foster personal growth.
 
-### Example
+### **Example Conversation**
 ```text
 User: I'm feeling a bit down today.
-Solara: I'm sorry to hear you're feeling that way. Would you like to talk about what's on your mind?
+Solara: I'm sorry to hear that. Would you like to share what's on your mind?
 User: It's been a stressful week at work.
-Solara: That sounds overwhelming. What part of your week has been the hardest for you?
+Solara: That sounds overwhelming. What part of your week has been the most challenging?
+```
+
+## Contributing
+We welcome contributions to improve Solara12! If you’d like to contribute, please:
+1. Fork the repository.
+2. Create a new branch (`feature-branch`).
+3. Submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+Solara12 is here to guide you on your journey to self-discovery and emotional well-being. 💙
