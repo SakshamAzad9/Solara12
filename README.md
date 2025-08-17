@@ -48,6 +48,15 @@ Solara12 is an advanced emotional support chatbot designed to engage users in me
 - **Natural Language Processing (NLP):** Enables human-like understanding and generation of responses.
 - **Python:** The core programming language used for developing Solara.
 
+## Role of Context Engineering
+
+Context engineering is central to Solara12’s adaptive empathy:
+- **Session Memory:** Tracks short-term conversational context to avoid repetitive or disconnected replies.
+- **Emotional Cues Recognition:** Identifies tone and emotional states (e.g., anxiety, sadness, hopefulness) to adapt responses.
+- **Dynamic Prompting:** Adjusts prompts and guidance dynamically based on ongoing conversation flow.
+- **Safe Boundaries:** Uses carefully designed prompts that ensure responses stay empathetic, supportive, and non-diagnostic.
+This makes conversations fluid, human-like, and emotionally intelligent.
+
 ## Installation
 
 ### **Requirements**
