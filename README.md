@@ -1,7 +1,7 @@
 # 🌞 Solara - AI Conversational Companion
 
 <div align="center">
-  <img src="sol.png" alt="Solara Logo" width="200" height="200"/>
+  <img src="sol.png" alt="Solara Logo" width="600" height="800"/>
   
   **Your Empathetic AI Companion for Emotional Intelligence & Self-Discovery**
   
