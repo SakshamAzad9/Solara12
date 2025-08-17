@@ -328,6 +328,8 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+<div align="center">
+  <img src="SOL2.png" alt="Solara Logo" width="600" height="600" style="background: transparent;"/>
 
 > 🌞 **Solara** — Every conversation lights the way to self-discovery ✨  
 > Built with ❤️ using Streamlit, LangChain & Ollama
